@@ -1,3 +1,3 @@
 # Mi primer repositorio
 
-Este es mi primer repositorio de Guthub
+Este es mi primer repositorio de Github
